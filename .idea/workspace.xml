@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d7b60f24-d384-4137-8d8b-a87fda768c55" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/cauldron_overflow.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/cauldron_overflow.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/question/show.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Controller/QuestionController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/QuestionController.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -169,7 +171,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../xampp/htdocs" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php.composer" />
+    <property name="settings.editor.selected.configurable" value="Symfony2.SettingsForm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
@@ -191,6 +193,8 @@
       <workItem from="1635062430793" duration="4406000" />
       <workItem from="1635086642519" duration="840000" />
       <workItem from="1635105306428" duration="2154000" />
+      <workItem from="1635108090784" duration="24000" />
+      <workItem from="1635108996192" duration="1234000" />
     </task>
     <task id="LOCAL-00001" summary="refactor of file placement.">
       <created>1635022289329</created>
@@ -220,7 +224,14 @@
       <option name="project" value="LOCAL" />
       <updated>1635107710609</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="installed twig.">
+      <created>1635108100843</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1635108100843</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -231,6 +242,7 @@
     <MESSAGE value="refactor of file placement." />
     <MESSAGE value="created first controller, pulled in annotations package with composer and created first routess in controller with slug." />
     <MESSAGE value="testing out the security checker package for symfony." />
-    <option name="LAST_COMMIT_MESSAGE" value="testing out the security checker package for symfony." />
+    <MESSAGE value="installed twig." />
+    <option name="LAST_COMMIT_MESSAGE" value="installed twig." />
   </component>
 </project>
