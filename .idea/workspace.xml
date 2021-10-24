@@ -3,11 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d7b60f24-d384-4137-8d8b-a87fda768c55" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/cauldron_overflow.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/cauldron_overflow.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/symfony.lock" beforeDir="false" afterPath="$PROJECT_DIR$/symfony.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -195,7 +190,7 @@
       <workItem from="1635062385240" duration="32000" />
       <workItem from="1635062430793" duration="4406000" />
       <workItem from="1635086642519" duration="840000" />
-      <workItem from="1635105306428" duration="1762000" />
+      <workItem from="1635105306428" duration="2154000" />
     </task>
     <task id="LOCAL-00001" summary="refactor of file placement.">
       <created>1635022289329</created>
@@ -218,7 +213,14 @@
       <option name="project" value="LOCAL" />
       <updated>1635066358812</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="testing out the security checker package for symfony.">
+      <created>1635107710609</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1635107710609</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -228,6 +230,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="refactor of file placement." />
     <MESSAGE value="created first controller, pulled in annotations package with composer and created first routess in controller with slug." />
-    <option name="LAST_COMMIT_MESSAGE" value="created first controller, pulled in annotations package with composer and created first routess in controller with slug." />
+    <MESSAGE value="testing out the security checker package for symfony." />
+    <option name="LAST_COMMIT_MESSAGE" value="testing out the security checker package for symfony." />
   </component>
 </project>
